@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  hyphens: auto;
+}
+.ms-img {
+  margin-top: -2vh;
+  border: 2px solid #e3e3e3;
+  border-radius: 5% 5% 5% 5%;
+  width: 16vw;
+  position: relative;
+  left: 42vw;
+  box-shadow: 0 0px 40px 0 rgba(0, 0, 0, 0.2);
+}
+.title {
+  color: #e3e3e3;
+  position: relative;
+  text-align: center;
+  font: 700 3rem 'Noto Serif', serif;
+  text-shadow: 0rem 0rem 25px #233142;
+}
+.title-space {
+  padding: 2vh 3vw 0vh;
+  margin: -3.2vh -1.3vw 0px;
+  background: url('../resumeimgs/mnskyline.jpeg') center/cover no-repeat grey;
+  background-blend-mode: luminosity;
+}
+.intro-p {
+  color: #e3e3e3;
+  text-align: center;
+  font: 400 1rem 'Noto Serif', serif;
+  text-shadow: 0rem 0rem 15px #233142;
+}
+.contents-header {
+  color: #e3e3e3;
+  font-size: .9rem;
+}
+.contents-list {
+  padding: 1rem 3vw;
+  margin: auto -3vw;
+  background-color: #f95959;
+}
+.contents-list a {
+  color: #e3e3e3;
+  font: 400 1rem 'Noto Serif', serif;
+  text-decoration: none;
+}
+.contents-list li{
+  display: inline-block;
+  width: 17.5vw;
+  text-align: center;
+}
