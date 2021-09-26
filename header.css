@@ -21,7 +21,7 @@
 .title-space {
   padding: 2vh 3vw 0vh;
   margin: -3.2vh -1.3vw 0px;
-  background: url('../resumeimgs/mnskyline.jpeg') center/cover no-repeat grey;
+  background: url('mnskyline.jpeg') center/cover no-repeat grey;
   background-blend-mode: luminosity;
 }
 .intro-p {
